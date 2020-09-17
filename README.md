@@ -1,2 +1,2 @@
 # Email-Galaxy
- email mockup code
+ email template HTML code
